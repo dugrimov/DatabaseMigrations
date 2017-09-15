@@ -9,7 +9,7 @@ begin
     print 'Migration n applied successfully'
 end
 else begin
-    print 'Migration nnnn can't be applied'
+    print 'Migration nnnn cannot be applied'
 end
 ```
 At the start the database has one table
